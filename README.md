@@ -29,7 +29,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alwn8918&show_icons=true&title_color=e38181&text_color=695a5a&icon_color=e38181&bg_color=ffffff&hide_border=false" alt="Anurag's GitHub stats" width=45% />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwn8918&layout=donut&title_color=695a5a&text_color=695a5a&icon_color=e38181&bg_color=ffffff&hide_border=false" alt="Top Langs"  width=30.7% />
   <br/>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=alwn8918&theme=date-night&background=FFFFFF&stroke=695A5AA1&fire=E38181&ring=E38181&currStreakNum=695A5A&sideNums=695A5A&currStreakLabel=E38181&sideLabels=E38181&dates=695A5A" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=alwn8918&theme=date-night&background=FFFFFF&stroke=695A5AA1&fire=E38181&ring=E38181&currStreakNum=695A5A&sideNums=695A5A&currStreakLabel=E38181&sideLabels=E38181&dates=695A5A" alt="GitHub Streak" width=50% /></a>
 </div>
 
 
